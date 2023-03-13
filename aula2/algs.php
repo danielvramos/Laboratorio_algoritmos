@@ -1,5 +1,6 @@
 <?php
-//por
+//po
+
 $parameters = $_POST['params'];
 
 function codToString($code){
